@@ -1,0 +1,62 @@
+#import_footer{   
+   display : inline-block;
+   background-color: #4CAF50;
+   color:white;
+   width:50px;
+   height:50px;
+   right : 100px;
+   position:fixed;
+}
+
+#footer_wrap{
+   height : 300px;
+}
+
+hr{
+   background-color : white;   
+}
+
+#logo_block{
+   color : white;
+   position : relative;
+    left : 310px;
+   display : inline-block;
+}
+
+#kk{
+   position : relative;
+   display: inline-block;
+   left : 240px;
+   text-align : center;
+   list-style : none;
+}
+
+#kk>li{
+   display : inline-block;
+}
+
+#kk>li>a{      
+   font-size : 15px;
+   padding : 0px 5px;   
+   border-right : 2px solid #e0e0e0;
+      
+}
+#kk li:last-child>a{
+   border-right : none;
+}
+
+#coment{
+   position : relative;
+    left : 300px;
+   color : gray;
+   display: inline-block;
+   width : 980px;
+   margin-top : 30px;
+   margin-bottom : 30px;
+}
+
+#mamuri{
+   height : 200px;
+   background : red;
+   background : url('../images/sub_background.png'); 
+}

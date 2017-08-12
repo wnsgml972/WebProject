@@ -1,0 +1,22 @@
+#containr_wrap{
+	height : 1680px;
+}
+
+#ad_block{   
+   width : 100%; 
+   height : 455px;  
+   background : url('../images/sub_background.png');   
+}
+.common_set {
+    margin : 0 auto;
+    width: 980px; 
+    height :455px;
+}
+#movie_selection{
+	margin-bottom : 50px;
+}
+.sub_title{
+	font-size : 1.5em;
+	color: #ffffff;
+}
+
